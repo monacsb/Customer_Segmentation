@@ -34,6 +34,8 @@ Training accuracy and validation Accuracy <br />
 ![training_acc_validation_Acc](https://user-images.githubusercontent.com/103228610/169042049-952b31de-2a36-4c92-9472-5a40d36f627b.png) <br />
 
 The training validation started to reduce slowly after third epoch and the early stopping occurs at the tenth epoch on overall 30 epochs. <br />
+![training_loss_validation_loss](https://user-images.githubusercontent.com/103228610/169046772-f811ecdd-aa25-4caa-ae57-23aa3d40a11a.png)
+
 
 As you can see the training loss has smaller loss then the validation loss, somehow it says a good one. It has at least prevent from underfitting by stopping at epoch 10. <br /> 
 
